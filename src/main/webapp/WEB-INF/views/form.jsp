@@ -12,7 +12,7 @@
 <body>
 </c:if>
 	<div id="formsContent">
-		<h2>Forms</h2>
+		<h2>Forms used To Gather Data</h2>
 		<p>
 			See the <code>org.springframework.samples.mvc.form</code> package for the @Controller code	
 		</p>
